@@ -1,0 +1,6 @@
+export { HomePage } from './HomePage'
+export { AboutPage } from './AboutPage'
+export { SettingsPage } from './SettingsPage'
+export { MachineIdPage } from './MachineIdPage'
+export { KiroSettingsPage } from './KiroSettingsPage'
+export { AutoRegisterPage } from './AutoRegisterPage'

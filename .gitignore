@@ -1,0 +1,8 @@
+node_modules
+.git-backup-*
+dist
+out
+.DS_Store
+.eslintcache
+*.log*
+electron-v*.zip
