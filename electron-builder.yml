@@ -51,5 +51,5 @@ linux:
 npmRebuild: false
 publish:
   provider: github
-  owner: chaogei
-  repo: Kiro-account-manager
+  owner: dev-longshun
+  repo: kiro-accout-register
